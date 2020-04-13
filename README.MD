@@ -82,3 +82,10 @@ segunda forma de dividir textos
 ___
 tercera forma de dividir textos
 
+# Saltos de linea 
+
+esto es nuestro primer parrafo.
+
+este es nuestro segundo parrafo
+
+este es nuestro tercer parrafo 
