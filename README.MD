@@ -70,7 +70,15 @@ este es un texto distinto
 
 > Esta es la segunda cita 
 
+# Lineas divisoras 
+Esto es un texto que será dividido 
 
+---
+este es el segundo texto dividido
   
+*** 
+segunda forma de dividir textos 
 
+___
+tercera forma de dividir textos
 
