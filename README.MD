@@ -14,4 +14,6 @@ underline 2
 
 - *formato de italica 1*
 - _formato de italica 2_
-- **formato bold o strong**
+- **formato bold o strong de la primer forma**
+- __formato bold o strong de la primer forma__ 
+- ~~Formato tachado~~ 
