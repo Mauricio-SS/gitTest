@@ -6,3 +6,8 @@
 ###### Cabecera 6  
 
 Mi archivo README
+
+underline 1 
+--
+underline 2 
+==
