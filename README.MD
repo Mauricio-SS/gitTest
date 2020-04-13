@@ -38,6 +38,7 @@ underline 2
 ![LogoGithub](https://image.flaticon.com/icons/png/512/25/25231.png)
 
 # Snippets 
+codigo en json 
 ```json 
 [
   {
@@ -52,5 +53,12 @@ underline 2
   }
 ]
  ``` 
+
+ # Tablas 
+
+ |nombre|apellido|documento|
+ |------|--------|---------|
+ |mau   |sandoval|2654654  |
+ |victor|salinas |146545611|
 
 
