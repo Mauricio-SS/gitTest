@@ -11,3 +11,7 @@ underline 1
 --
 underline 2 
 ==
+
+- *formato de italica 1*
+- _formato de italica 2_
+- **formato bold o strong**
